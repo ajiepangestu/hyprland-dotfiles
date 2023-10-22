@@ -1,3 +1,4 @@
 dunst
 waybar
 kitty
+alsa-utils
